@@ -55,6 +55,7 @@ poetry install
 poetry run python manage.py tailwind install
 poetry run python manage.py migrate
 poetry run honcho start
+# open http://127.0.0.1:8000/
 ```
 
 
